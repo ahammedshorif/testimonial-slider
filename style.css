@@ -4,12 +4,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: rgb(223, 221, 190);
+    
 }
 
 .testimonial-container{
     width: 500px;
     height: 100px;
-    background-color: lightgray;
+    background-color: rgb(150, 119, 78);
     border-radius: 15px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
     min-width: 400px;
@@ -29,6 +31,7 @@ img{
 }
 
 #username{
-    font-size: 14px;
+    font-size: 16px;
+    font-style: italic;
     
 }
